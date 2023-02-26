@@ -3,4 +3,4 @@
 ## GitHub Puges
 
 
-https://reddeusdev.github.io/Portfolio/index.html
+ https://grzbejta.github.io/portfolio-v1/
